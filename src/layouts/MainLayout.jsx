@@ -1,5 +1,5 @@
 import { Outlet } from "react-router";
-import AppNavbar from "../components/AppNavbar";
+import AppNavbar from '../components/AppNavbar.jsx';
 import Footer from "../components/Footer";
 import CardRightSide from "../components/CardRightSide";
 
